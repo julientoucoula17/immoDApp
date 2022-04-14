@@ -1,5 +1,23 @@
-# immoDApp
+# immoDApp with Blockchain - Ethereum, Solidity, Web3.js, React 🌏⭐️
 
+### Context:
+The goal of the project is to develop a smart contract on Ethereum for the sale of real estate.
+In this project, we will refer to the real estate managed by the smart contract as a token.
+<br />
+### Description:
+Login to the site and interaction will be through the Ethereum Metamask wallet.
+On the homepage, one will be able to see all the tokens created on smart contract. 
+From the web interface, it can be possible for the user connected to Metamask to create a token.
+
+A token has different attributes:
+- A name
+- An address
+- A price (in Ether)
+- One or more images
+
+From this one, the owner of the token can sell it or stop the sale. It is possible, from the website, to buy tokens put up for sale by other owners. When the token is sold, it is transferred to its new owner and the money from the sale is returned to the seller. When a token is sold, a 10% commission is paid to the contract. The contract owner can withdraw the commission funds at any time.
+<br />
+<br />
 ### Installation:
   - [NodeJS 9.10](https://nodejs.org/en/download/)
   
