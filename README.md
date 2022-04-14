@@ -75,6 +75,9 @@ To access the application, you will have to go to: http://localhost:3000/
       - <img src="https://user-images.githubusercontent.com/42827342/163247508-dfd16197-e81a-45c5-bf50-ed5b17d1aa50.png"  />  
 
 
+<br />
+<br />
 
-
+## Team contributors
+L. Alexandre
 
